@@ -125,18 +125,6 @@ After downloading, extract the dataset locally.
 
 Place the downloaded dataset in the location expected by the training/preprocessing scripts.
 
-For example:
-
-ExplainFusion/
-│
-├── data/
-│   └── <RSNA dataset files>
-│
-├── model.py
-├── train.py
-├── utils_preprocess.py
-└── ...
-
 ## Limitations
 
 This project is a research prototype and has not undergone
