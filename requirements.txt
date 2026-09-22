@@ -1,0 +1,9 @@
+gradio
+torch
+torchvision
+opencv-python-headless
+lime
+scikit-image
+numpy
+Pillow
+scikit-learn
