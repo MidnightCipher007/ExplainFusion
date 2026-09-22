@@ -105,25 +105,22 @@ src/
 results/
     Sample outputs and evaluation results
 
-# Dataset
+## Dataset
 
 The project uses the RSNA Pneumonia Detection Challenge chest X-ray dataset, obtained through Kaggle.
 
-The dataset contains chest X-ray images with pneumonia-related annotations and is used for training and evaluating the classification and explainability pipeline.
+The dataset contains chest X-ray images and pneumonia-related annotations used for the classification and explainability pipeline.
 
-The complete dataset is not included in this repository because of its size and the dataset's usage/distribution requirements.
+The complete dataset is not included in this repository because of its size and applicable dataset usage requirements.
 
-## Dataset Setup
+### Dataset Setup
 
-### 1. Download the Dataset
+1. Download the RSNA Pneumonia Detection Challenge dataset from Kaggle.
+2. Extract the downloaded files locally.
+3. Configure the dataset path according to the training and preprocessing scripts.
+4. Run the preprocessing/training pipeline as required.
 
-Download the RSNA Pneumonia Detection Challenge dataset from Kaggle.
-
-After downloading, extract the dataset locally.
-
-### 2. Dataset Location
-
-Place the downloaded dataset in the location expected by the training/preprocessing scripts.
+The dataset itself is not included in this repository.
 
 ## Limitations
 
