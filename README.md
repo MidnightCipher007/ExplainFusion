@@ -54,13 +54,6 @@ Final Visual + Textual Explanation
 - Matplotlib
 - Web interface
 
-## Dataset
-
-The project uses publicly available chest X-ray datasets.
-The datasets are not included in this repository.
-
-Dataset preparation and usage instructions are provided
-separately.
 
 ## Installation
 
